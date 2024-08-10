@@ -1,4 +1,4 @@
-# import pip install qr code mmodule
+# import pip install qr code module
 
 import qrcode as qr
 img= qr.make("https://www.linkedin.com/in/abdul-rahman-806781312/") # past your social url
